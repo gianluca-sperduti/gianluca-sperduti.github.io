@@ -1,4 +1,3 @@
-## Services
 
 
 <h4 style="margin:0 10px 0;">Ongoing projects </h4>
@@ -21,4 +20,3 @@ The survey is currently in its final stages of preparation, and I plan to submit
   <li><a href="https://dl.acm.org/journal/jocch"><autocolor>Journal on Computing and Cultural Heritage (JOOCH)</autocolor></a>
 </ul>
 
-<h4 style="margin:0 10px 0;">On</h4>
