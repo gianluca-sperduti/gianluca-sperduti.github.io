@@ -20,7 +20,7 @@
 <div class="pub-row">
 
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 10px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23">A Concise Overview of LeQua@ CLEF 2022: Learning to Quantify</a></div>
     <div class="author">Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, <strong>Gianluca Sperduti</strong></div>
     <div class="periodical"><em>Experimental IR Meets Multilinguality, Multimodality, and Interaction: 13th International Conference of the CLEF Association <strong>(CLEF)</strong>, 2022.</em></div>
