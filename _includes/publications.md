@@ -21,6 +21,10 @@
       <a href="https://ceur-ws.org/Vol-2947/paper11.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
+<li>
+
+<li>
+<div class="pub-row">
 
   <br>
 
@@ -32,6 +36,10 @@
       <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-13643-6.pdf?pdf=button" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
+  <li>
+
+<li>
+<div class="pub-row">
 
   <br>
 
@@ -43,9 +51,10 @@
       <a href="https://ceur-ws.org/Vol-3180/paper-146.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
-
+<li>
+  
 </div>
-</li>
+
   
 <br>
 
