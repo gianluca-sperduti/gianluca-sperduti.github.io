@@ -14,7 +14,7 @@
       <a href="https://ceur-ws.org/Vol-2947/paper11.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
 
-
+<li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23">A Concise Overview of LeQua@ CLEF 2022: Learning to Quantify</a></div>
     <div class="author">Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, <strong>Gianluca Sperduti</strong></div>
@@ -23,7 +23,7 @@
       <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-13643-6.pdf?pdf=button" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
 
-
+<li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ceur-ws.org/Vol-3180/paper-146.pdf">A Detailed Overview of LeQua@ CLEF 2022: Learning to Quantify</a></div>
     <div class="author">Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, <strong>Gianluca Sperduti</strong></div>
@@ -31,5 +31,5 @@
     <div class="links">
       <a href="https://ceur-ws.org/Vol-3180/paper-146.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
-</li>
+
 
