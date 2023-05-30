@@ -11,6 +11,8 @@ I gained practical experience working as a Data Science intern at Freeda Media a
 
 - **Natural language processing:** deep learning applied to text, making NLP models resilient to misspellings
 
+{% include_relative _includes/publications.md %}
+
 ## Ongoing projects
 
 <h4 style="margin:0 10px 0;">Ongoing projects </h4>
@@ -34,6 +36,4 @@ The survey is currently in its final stages of preparation, and I plan to submit
 </ul>
 
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
