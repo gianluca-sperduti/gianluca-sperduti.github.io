@@ -32,7 +32,6 @@ The survey is currently in its final stages of preparation, and I plan to submit
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://dl.acm.org/journal/jocch"><autocolor>Journal on Computing and Cultural Heritage (JOOCH)</autocolor></a>
-</ul>
 
 
 
